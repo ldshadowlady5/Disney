@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "disney:kitchen_blank_mint"
+    }
+  },
+  "result": {
+    "item": "disney:kitchen_counter_mint",
+    "count": 1
+  }
+}

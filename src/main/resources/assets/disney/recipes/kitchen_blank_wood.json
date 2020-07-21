@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "CIC",
+    "CCC"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:planks",
+      "data": 0
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:planks",
+      "data": 2
+    }
+  },
+  "result": {
+    "item": "disney:kitchen_blank_wood",
+    "count": 8
+  }
+}

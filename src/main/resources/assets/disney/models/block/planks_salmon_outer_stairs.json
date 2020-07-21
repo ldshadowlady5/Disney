@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "disney:blocks/planks_salmon",
+        "top": "disney:blocks/planks_salmon",
+        "side": "disney:blocks/planks_salmon"
+    }
+}

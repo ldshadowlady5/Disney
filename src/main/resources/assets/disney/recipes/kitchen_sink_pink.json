@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I",
+    "C"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "disney:kitchen_drawers_pink"
+    }
+  },
+  "result": {
+    "item": "disney:kitchen_sink_pink",
+    "count": 1
+  }
+}

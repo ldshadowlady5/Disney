@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D",
+    "T"
+  ],
+  "key": {
+    "T": {
+      "item": "disney:kitchen_shelf_brown_left",
+      "data": 0
+    },
+    "D": {
+      "item": "minecraft:dye",
+      "data": 15
+    }
+  },
+  "result": {
+    "item": "disney:kitchen_shelf_white_left"
+  }
+}

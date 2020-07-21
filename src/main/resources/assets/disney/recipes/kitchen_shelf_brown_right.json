@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "  S",
+    "  S"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:wooden_slab",
+      "data": 0
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "disney:kitchen_shelf_brown_right"
+  }
+}

@@ -1,0 +1,14 @@
+[{
+	"modid": "disney",
+	"name": "Disney",
+	"description": "",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": "",
+	"updateUrl": "",
+	"authorList": [ "LDShadowLady" ],
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+}]

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "disney:kitchen_chair_black" },
+    "facing=south": { "model": "disney:kitchen_chair_black", "y": 180 },
+    "facing=west":  { "model": "disney:kitchen_chair_black", "y": 270 },
+    "facing=east":  { "model": "disney:kitchen_chair_black", "y": 90 }
+  }
+}

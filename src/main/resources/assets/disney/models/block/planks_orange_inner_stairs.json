@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "disney:blocks/planks_orange",
+        "top": "disney:blocks/planks_orange",
+        "side": "disney:blocks/planks_orange"
+    }
+}

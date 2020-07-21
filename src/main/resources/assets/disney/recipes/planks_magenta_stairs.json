@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P  ",
+    "PP ",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "disney:planks_magenta"
+    }
+  },
+  "result": {
+    "item": "disney:planks_magenta_stairs",
+    "count": 8
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "SI ",
+    "S  "
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:wooden_slab",
+      "data": 0
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "disney:kitchen_table_half_brown"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "disney:kitchen_shelf_brown_left" },
+    "facing=south": { "model": "disney:kitchen_shelf_brown_left", "y": 180 },
+    "facing=west":  { "model": "disney:kitchen_shelf_brown_left", "y": 270 },
+    "facing=east":  { "model": "disney:kitchen_shelf_brown_left", "y": 90 }
+  }
+}

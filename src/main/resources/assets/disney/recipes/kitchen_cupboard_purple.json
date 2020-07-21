@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    " C "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "disney:kitchen_blank_purple"
+    }
+  },
+  "result": {
+    "item": "disney:kitchen_cupboard_purple",
+    "count": 1
+  }
+}

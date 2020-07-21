@@ -1,0 +1,83 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"textures": {
+		"0": "minecraft:blocks/quartz_block_side",
+		"2": "disney:blocks/oven_front",
+		"3": "disney:blocks/oven_top",
+		"particle": "minecraft:blocks/quartz_block_side"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [0, 16, 14],
+			"to": [16, 18, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 10, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 10, 16], "texture": "#0"}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "cube",
+			"from": [0, 0, 1],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 10, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 10, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 10, 16], "texture": "#0"},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#3",
+					"rotation": 180
+				},
+				"down": {"uv": [0, 0, 10, 16], "texture": "#0"}
+			},
+			"type": "cube"
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"isOpen": true,
+			"display": {"visibility": true, "autouv": true},
+			"children": [0, 1]
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.375, 0.375, 0.375],
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.375, 0.375, 0.375],
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0.4, 0.4, 0.4],
+			"rotation": [0, 45, 0],
+			"translation": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.4, 0.4, 0.4],
+			"rotation": [0, 225, 0],
+			"translation": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [0.25, 0.25, 0.25],
+			"rotation": [0, 0, 0],
+			"translation": [0, -1, 0]
+		},
+		"gui": {
+			"scale": [0.625, 0.625, 0.625],
+			"rotation": [30, 225, 0],
+			"translation": [0, -0.5, 0]
+		}
+	}
+}

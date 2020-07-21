@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DSD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "disney:disney_wish"
+    }
+  },
+  "result": {
+    "item": "disney:disney_lucky_block"
+  }
+}

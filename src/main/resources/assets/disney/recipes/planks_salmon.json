@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DI ",
+    " P "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "P": {
+      "item": "minecraft:planks",
+      "data": 0
+    },
+    "D": {
+      "item": "minecraft:fish",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "disney:planks_salmon",
+    "count": 8
+  }
+}
